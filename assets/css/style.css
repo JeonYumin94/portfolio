@@ -332,6 +332,7 @@ ul.list-check li::before {
 	background-size: cover;
 	padding: 0;
 	position: relative;
+	height:600px;
 }
 #home:before {
 	content: "";
