@@ -317,6 +317,10 @@ ul.list-check li::before {
 
 
 /* === HOME === */
+.mainTitle{
+	height:600px; 
+}
+	
 @media (max-width : 640px) {
     .tt-fullHeight{
         height: 560px;
